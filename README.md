@@ -21,3 +21,4 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64
 App link: http://localhost:8501/
 
 ![Alt text](/App.png?raw=true "Optional Title")
+Link: https://fuelconsumptionpredictor.streamlit.app/
