@@ -2,4 +2,3 @@ numpy
 streamlit
 pandas
 sckitlearn
-sklearn
