@@ -2,3 +2,5 @@ numpy
 streamlit
 pandas
 sckitlearn
+joblib
+google-generativeai
